@@ -1,2 +1,2 @@
-# cool Calendar 
+# Calendar 
 Meeting Scheduler
